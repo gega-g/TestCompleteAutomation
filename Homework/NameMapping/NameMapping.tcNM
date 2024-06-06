@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{D96FB9EE-09EC-4174-9B76-3AB223E0CFDE}">
+				<TypeInfo Item0="{29F3ADFB-5D36-4C3E-A456-21557CBF9A68}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Orders" Key="{A2AE7960-8DB4-4095-A9E3-3D52AA95D169}">
+						<TypeInfo Item0="{7E643AA7-A7F6-419B-8C30-5A6201092838}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Orders" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="OrderForm" Key="{00E52A27-C203-4847-A8C9-D6E1E1265081}">
+								<Image FileName="-1591979770" Left="0" Top="0" Right="610" Bottom="598" />
+								<TypeInfo Item0="{B4FA443A-FD14-4A3D-A487-61ACE53AF02A}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="OrderForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Group" Key="{3E6D20AF-5E1B-489E-87B7-B5E296301EB1}">
+										<Image FileName="-1591979770" Left="14" Top="43" Right="594" Bottom="543" />
+										<TypeInfo Item0="{8C2B011C-7E68-4C8E-B3C4-BA3E9503017C}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="Group" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="State_" Key="{62D176A8-FA2B-4C4B-8246-C6A1FB93F11D}">
+												<Image FileName="-1591979770" Left="144" Top="323" Right="304" Bottom="348" />
+												<TypeInfo Item0="{1B77EEF9-42DC-4BE4-8A8E-0B5C40157AB6}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="State" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Orders" Owner="{A2AE7960-8DB4-4095-A9E3-3D52AA95D169}">
+			<Child Name="OrderForm" Owner="{00E52A27-C203-4847-A8C9-D6E1E1265081}">
+				<Child Name="Group" Owner="{3E6D20AF-5E1B-489E-87B7-B5E296301EB1}">
+					<Child Name="State_" Owner="{62D176A8-FA2B-4C4B-8246-C6A1FB93F11D}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
