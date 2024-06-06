@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="main">
+			<child name="OrderAppSteps" key="{6355C685-8A3D-4C69-BA54-1248D34B7FD8}" path="OrderAppSteps.js" />
+			<child name="CustomerNameSteps" key="{3C5C4204-A4D7-4019-9F51-4A987EE1FBDA}" path="CustomerNameSteps.js" />
+			<child name="PaymentSteps" key="{35B3B561-0A33-47E1-96B3-B4125F852A03}" path="PaymentSteps.js" />
+			<child name="ButtonsSteps" key="{65CB4E35-59BB-4519-9294-D52B0AD10D82}" path="ButtonsSteps.js" />
+			<child name="PricePerUnitFieldSteps" key="{289A4A42-7A6F-40B6-8D3F-CE801B72F04C}" path="PricePerUnitFieldSteps.js" />
+			<child name="ServiceSteps" key="{CE996901-C190-482A-9EB1-6CDE672DF9A4}" path="ServiceSteps.js" />
+		</folder>
+		<folder name="test">
+			<child name="CustomerNameTest" key="{6510C9A1-4FFC-4A43-86BD-7388702D0CC4}" path="CustomerNameTest.js" />
+			<child name="PaymentTest" key="{7DB99A66-7CB4-45C2-8EA7-E53BF348254D}" path="PaymentTest.js" />
+			<child name="EditButtonTest" key="{E85880A1-4F4D-4C06-90D0-1D677F405C27}" path="EditButtonTest.js" />
+			<child name="DeleteButtonAndServiceTest" key="{20DF4498-E9D6-4E1A-98BC-61910A49D145}" path="DeleteButtonAndServiceTest.js" />
+			<child name="PricePerUnitFieldTest" key="{45575716-B212-4480-AA15-12B34FF69CC1}" path="PricePerUnitFieldTest.js" />
+		</folder>
+		<folder name="util">
+			<child name="ClickableCheck" key="{3AE823D9-3628-4A5A-9499-BC4FE9F70224}" path="ClickableCheck.js" />
+			<child name="ClickOk" key="{F0739999-E979-46C6-90A5-6063E8DD2C8A}" path="ClickOk.js" />
+		</folder>
+	</children>
+</Root>

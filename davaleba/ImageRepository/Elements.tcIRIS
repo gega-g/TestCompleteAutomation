@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{69750656-2779-4477-A3CF-A07CAC84FEA8}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="Elements" />
+	<testData />
+	<data>
+		<item caption="Editor" moniker="{3C4E203A-A3D4-4986-A408-A512358A139F}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Editor.png" initialHash="6C3B461E" selectionLeft="718" selectionTop="330" selectionWidth="23" selectionHeight="19" initialLeft="718" initialTop="330" initialWidth="23" initialHeight="19" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="Delete" moniker="{5E9565B2-596B-44BA-B2CD-9DFD63596406}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Delete.png" initialHash="7578D589" selectionLeft="752" selectionTop="331" selectionWidth="18" selectionHeight="17" initialLeft="752" initialTop="331" initialWidth="18" initialHeight="17" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>
