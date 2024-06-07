@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="test">
+			<child name="KeystrokeTest" key="{CA26CEC9-EDB5-451E-BD98-3D0A5B078069}" path="KeystrokeTest.js" />
+		</folder>
+		<folder name="main">
+			<folder name="functions">
+				<child name="NumbersTask" key="{71E1BA77-0CB0-4EA7-B97C-E7B6FD771102}" path="NumbersTask.js" />
+				<child name="TimePattern" key="{5B8FB46E-5503-4EC6-B935-378C69C97DAC}" path="TimePattern.js" />
+				<child name="isPalindrome" key="{7CBD4C8B-CEC5-474E-915A-D17F19FA0F41}" path="isPalindrome.js" />
+			</folder>
+			<folder name="events">
+				<child name="eventScript" key="{08E2F16F-A164-4D99-9A92-CFE862038A89}" path="eventScript.js" />
+			</folder>
+			<folder name="steps">
+				<child name="KeystrokeSteps" key="{13DDF30D-F24D-4344-9A34-902E5C0BE5FD}" path="KeystrokeSteps.js" />
+				<child name="OrderAppSteps" key="{52D4FC0D-8894-4EFB-81F2-CBCBFDBD4EA1}" path="OrderAppSteps.js" />
+			</folder>
+		</folder>
+	</children>
+</Root>
